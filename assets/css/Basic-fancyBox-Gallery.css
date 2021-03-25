@@ -1,0 +1,86 @@
+.flex-box {
+  display:-webkit-box;
+  display:-moz-box;
+  display:-ms-flexbox;
+  display:-webkit-flex;
+  display:flex;
+}
+
+.flex-wrap-wrap {
+  -webkit-flex-wrap:wrap;
+  -ms-flex-wrap:wrap;
+  flex-wrap:wrap;
+}
+
+.flex-justify-center {
+  -webkit-box-pack:center;
+  -moz-box-pack:center;
+  -webkit-justify-content:center;
+  -ms-flex-pack:center;
+  justify-content:center;
+}
+
+.flex-align-center {
+  -webkit-box-align:center;
+  -moz-box-align:center;
+  -webkit-align-items:center;
+  -ms-flex-align:center;
+  align-items:center;
+}
+
+.flex-box > div[class*="col"] {
+  padding-top:5px;
+  padding-bottom:5px;
+}
+
+.container.our-resort {
+}
+
+#galley {
+  text-align:right;
+  padding:60px;
+}
+
+#gallery {
+  background:#3f9cff;
+}
+
+.container.our-resort {
+}
+
+.container.Specials {
+  text-align:center;
+  padding:60px;
+}
+
+.container.our-resort {
+  text-align:left;
+  padding:60px;
+}
+
+.container.wedding {
+  text-align:center;
+  padding:60px;
+  margin-top:50px;
+}
+
+#footer {
+  margin-top:100px;
+}
+
+#contact_us {
+  margin-top:100px;
+}
+
+.h1, h1 {
+  text-align:center;
+}
+
+.text-center {
+  text-align:center;
+}
+
+.text-center {
+  text-align:center;
+}
+
